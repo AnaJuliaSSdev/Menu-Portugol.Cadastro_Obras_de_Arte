@@ -9,11 +9,17 @@ Por exemplo, caso o produto a ser cadastrado sejam livros, o sistema pode armaze
 Este sistema deverá ter um menu de controle, com no mínimo as seguintes funcionalidades: 
 
 CADASTRAR ELEMENTO: Inserir um elemento na base de dados, em uma posição que estiver vaga.
+
 CONSULTAR ELEMENTO: Permitir a consulta de um elemento através de um campo chave.
+
 LISTAR DADOS: Listar as informações de todos os produtos cadastrados, devidamente formatado, na tela.
+
 ALTERAR ELEMENTO:  Permitir que um determinado produto tenha suas informações alteradas.
+
 EXCLUIR ELEMENTO: Excluir um único elemento do cadastrado, através de uma informação a ser determinada pelo programador. 
+
 RELATÓRIO: Permitir que sejam gerados pelo menos 3 relatórios, de acordo com os dados cadastrados.  Considerando o exemplo de cadastro de livros, os relatórios poderiam ser: livros de um determinado autor, livros de acordo com o ano de edição, livros de um determinado gênero.
+
 
 No sistema deve haver pelo menos quatro funções. Estas funções deverão receber todas as informações necessárias ao processamento através de parâmetros e quando necessário retornar os valores de interesse. O sistema não deve ter variáveis globais.
 
