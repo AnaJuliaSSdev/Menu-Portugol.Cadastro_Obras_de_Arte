@@ -27,8 +27,12 @@ No sistema deve haver pelo menos quatro funções. Estas funções deverão rece
 Atente para que o programa atenda aos itens abaixo:
 
 Seja intuitivo, ou seja, o usuário consiga utilizar o programa sem orientações extras;
+
 As entradas de dados sejam validadas, sempre que possível;
+
 Evite a ocorrência de erros que possam ser previstos;
+
 Respeite o limite do cadastro, o qual deve ser definido através de constante;
+
 Todas as funcionalidades estejam corretamente implementadas. "
 
