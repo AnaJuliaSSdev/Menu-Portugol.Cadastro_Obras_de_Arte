@@ -1,6 +1,7 @@
 # Menu-Portugol.Cadastro_Obras_de_Arte
 Exercício de lógica de programação utilizando Portugol Studio.
-Este repositório foi criado com o intuito de ajudar estudantes de lógica de programação que utilizam o Portugol Studio como ferramenta. 
+Este repositório foi criado com o intuito de ajudar estudantes de lógica de programação que utilizam o Portugol Studio como ferramenta.
+
 Neste código foi desenvolvida uma possível solução para o problema lógico descrito a seguir: 
 
 " Deve-se escolher uma aplicação e construir um programa para realizar o cadastro de produtos relacionados. O item a ser cadastrado deverá ter pelo menos cinco informações, a serem armazenadas vetores ou matrizes.
